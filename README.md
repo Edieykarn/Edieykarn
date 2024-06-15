@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi there 👋
-Hi there, I'm Edikan Jerry.<br><br>A FrontEnd Developer 
+Hi there, I'm Edikan Jerry.<br><br>A Cloud Engineer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edikan-sam/) 
